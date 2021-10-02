@@ -1,0 +1,6 @@
+www.test1.com,3,0,0.221326
+www.test2.com,6,0,0.213127
+www.test3.com,10,0,0.117249
+www.test4.com,9,0,0.0798396
+www.test5.com,4,0,0.190026
+www.test6.com,5,0,0.178434
